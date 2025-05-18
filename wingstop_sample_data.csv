@@ -1,0 +1,101 @@
+order_id,location,order_type,order_time,delivery_time_mins,order_value_usd,customer_rating,review_text,weekday,order_hour
+1,Chicago,Delivery,2024-06-17 21:00:00,23,29.04,3.1,Excellent flavor!,Monday,21
+2,Chicago,Delivery,2024-06-14 18:00:00,59,14.44,4.6,Okay service,Friday,18
+3,Chicago,Dine-in,2024-06-02 20:00:00,37,35.38,1.7,Too slow,Sunday,20
+4,Los Angeles,Delivery,2024-06-18 12:00:00,55,40.83,3.6,Great wings!,Tuesday,12
+5,Los Angeles,Dine-in,2024-06-01 20:00:00,33,10.12,4.2,Okay service,Saturday,20
+6,Phoenix,Takeaway,2024-06-24 21:00:00,24,44.36,4.8,Great wings!,Monday,21
+7,Chicago,Delivery,2024-06-25 10:00:00,31,17.44,2.3,Just average,Tuesday,10
+8,Los Angeles,Dine-in,2024-06-04 12:00:00,39,32.08,3.9,Just average,Tuesday,12
+9,New York,Delivery,2024-06-10 16:00:00,13,26.63,3.2,Too slow,Monday,16
+10,Phoenix,Takeaway,2024-06-30 16:00:00,22,38.79,1.2,Too slow,Sunday,16
+11,Houston,Takeaway,2024-06-23 14:00:00,32,24.85,3.8,Crispy and fresh,Sunday,14
+12,Phoenix,Takeaway,2024-06-15 21:00:00,17,44.79,3.8,Just average,Saturday,21
+13,Houston,Delivery,2024-06-04 20:00:00,27,39.22,4.7,Highly recommend,Tuesday,20
+14,Chicago,Delivery,2024-06-28 18:00:00,21,35.91,3.0,Highly recommend,Friday,18
+15,Houston,Dine-in,2024-06-22 15:00:00,40,41.85,1.9,Excellent flavor!,Saturday,15
+16,Chicago,Takeaway,2024-06-24 13:00:00,23,40.16,1.2,Just average,Monday,13
+17,New York,Delivery,2024-06-02 22:00:00,43,11.44,2.7,Great wings!,Sunday,22
+18,Houston,Takeaway,2024-06-29 20:00:00,27,25.79,2.2,Great wings!,Saturday,20
+19,Phoenix,Takeaway,2024-06-11 10:00:00,43,47.23,4.0,Not hot enough,Tuesday,10
+20,Chicago,Dine-in,2024-06-16 18:00:00,20,15.03,2.4,Okay service,Sunday,18
+21,Phoenix,Dine-in,2024-06-23 20:00:00,50,39.48,4.8,Terrible experience,Sunday,20
+22,Los Angeles,Dine-in,2024-06-05 14:00:00,21,48.98,4.8,Highly recommend,Wednesday,14
+23,Chicago,Dine-in,2024-06-01 16:00:00,58,12.09,3.5,Too slow,Saturday,16
+24,Houston,Takeaway,2024-06-29 14:00:00,24,37.29,4.7,Excellent flavor!,Saturday,14
+25,Chicago,Dine-in,2024-06-13 12:00:00,40,28.73,4.0,Terrible experience,Thursday,12
+26,Phoenix,Dine-in,2024-06-20 12:00:00,58,33.17,3.2,Loved the fries!,Thursday,12
+27,New York,Dine-in,2024-06-28 17:00:00,38,13.41,1.7,Excellent flavor!,Friday,17
+28,Chicago,Dine-in,2024-06-20 18:00:00,35,11.72,2.8,Loved the fries!,Thursday,18
+29,Houston,Takeaway,2024-06-06 17:00:00,27,36.67,3.2,Just average,Thursday,17
+30,Los Angeles,Dine-in,2024-06-09 10:00:00,41,42.93,4.5,Loved the fries!,Sunday,10
+31,New York,Takeaway,2024-06-29 10:00:00,31,41.28,2.9,Loved the fries!,Saturday,10
+32,Los Angeles,Delivery,2024-06-15 22:00:00,47,31.75,4.6,Crispy and fresh,Saturday,22
+33,Chicago,Takeaway,2024-06-24 21:00:00,26,13.99,3.7,Crispy and fresh,Monday,21
+34,Phoenix,Takeaway,2024-06-29 18:00:00,32,37.52,1.5,Crispy and fresh,Saturday,18
+35,Phoenix,Dine-in,2024-06-18 16:00:00,33,19.68,5.0,Just average,Tuesday,16
+36,Houston,Delivery,2024-06-04 19:00:00,59,46.44,3.1,Terrible experience,Tuesday,19
+37,Phoenix,Delivery,2024-06-16 16:00:00,17,43.53,2.6,Excellent flavor!,Sunday,16
+38,New York,Delivery,2024-06-15 18:00:00,50,38.38,3.6,Excellent flavor!,Saturday,18
+39,Phoenix,Delivery,2024-06-16 17:00:00,15,47.95,1.4,Too slow,Sunday,17
+40,Houston,Takeaway,2024-06-19 18:00:00,14,11.26,3.5,Crispy and fresh,Wednesday,18
+41,Chicago,Delivery,2024-06-18 17:00:00,53,39.45,3.0,Just average,Tuesday,17
+42,Chicago,Takeaway,2024-06-02 20:00:00,38,23.21,2.6,Too slow,Sunday,20
+43,Phoenix,Takeaway,2024-06-01 10:00:00,37,46.24,4.8,Okay service,Saturday,10
+44,Los Angeles,Takeaway,2024-06-06 11:00:00,20,20.67,3.1,Too slow,Thursday,11
+45,Chicago,Delivery,2024-06-08 21:00:00,10,38.99,1.9,Terrible experience,Saturday,21
+46,Phoenix,Dine-in,2024-06-29 14:00:00,52,45.11,2.8,Highly recommend,Saturday,14
+47,Houston,Dine-in,2024-06-09 16:00:00,28,11.67,4.7,Loved the fries!,Sunday,16
+48,Phoenix,Delivery,2024-06-04 14:00:00,18,25.91,1.7,Crispy and fresh,Tuesday,14
+49,Chicago,Dine-in,2024-06-28 13:00:00,36,40.49,1.9,Highly recommend,Friday,13
+50,Houston,Dine-in,2024-06-17 16:00:00,43,28.2,1.1,Too slow,Monday,16
+51,Phoenix,Takeaway,2024-06-03 12:00:00,53,20.69,1.1,Just average,Monday,12
+52,New York,Takeaway,2024-06-27 19:00:00,13,18.79,4.3,Loved the fries!,Thursday,19
+53,Houston,Delivery,2024-06-26 22:00:00,45,15.26,3.9,Excellent flavor!,Wednesday,22
+54,New York,Delivery,2024-06-22 22:00:00,27,44.29,2.4,Great wings!,Saturday,22
+55,Los Angeles,Dine-in,2024-06-19 14:00:00,24,33.01,3.8,Loved the fries!,Wednesday,14
+56,Houston,Takeaway,2024-06-28 11:00:00,22,13.06,2.6,Terrible experience,Friday,11
+57,New York,Delivery,2024-06-22 17:00:00,28,25.3,4.8,Terrible experience,Saturday,17
+58,Chicago,Delivery,2024-06-05 21:00:00,58,24.71,4.9,Too slow,Wednesday,21
+59,Chicago,Delivery,2024-06-27 16:00:00,15,17.27,2.6,Okay service,Thursday,16
+60,Los Angeles,Delivery,2024-06-26 16:00:00,57,27.42,4.4,Terrible experience,Wednesday,16
+61,Houston,Delivery,2024-06-15 16:00:00,21,23.28,4.1,Terrible experience,Saturday,16
+62,Houston,Delivery,2024-06-22 14:00:00,46,23.67,2.2,Just average,Saturday,14
+63,Houston,Dine-in,2024-06-11 11:00:00,26,39.56,1.9,Too slow,Tuesday,11
+64,Los Angeles,Takeaway,2024-06-08 17:00:00,32,18.93,2.8,Loved the fries!,Saturday,17
+65,Houston,Takeaway,2024-06-17 22:00:00,35,35.67,4.1,Okay service,Monday,22
+66,Chicago,Delivery,2024-06-29 20:00:00,38,32.83,4.8,Highly recommend,Saturday,20
+67,New York,Takeaway,2024-06-03 10:00:00,42,32.72,4.1,Great wings!,Monday,10
+68,Chicago,Takeaway,2024-06-27 12:00:00,36,36.52,4.4,Crispy and fresh,Thursday,12
+69,Chicago,Takeaway,2024-06-02 10:00:00,34,31.94,3.4,Excellent flavor!,Sunday,10
+70,New York,Delivery,2024-06-13 19:00:00,19,45.17,4.3,Terrible experience,Thursday,19
+71,Chicago,Delivery,2024-06-22 14:00:00,56,37.02,4.1,Too slow,Saturday,14
+72,Los Angeles,Takeaway,2024-06-21 20:00:00,32,31.88,2.5,Crispy and fresh,Friday,20
+73,New York,Takeaway,2024-06-23 22:00:00,30,43.19,3.2,Excellent flavor!,Sunday,22
+74,Chicago,Delivery,2024-06-01 12:00:00,30,34.25,4.2,Excellent flavor!,Saturday,12
+75,Phoenix,Dine-in,2024-06-23 21:00:00,52,21.65,1.2,Highly recommend,Sunday,21
+76,Chicago,Takeaway,2024-06-25 18:00:00,22,18.28,4.2,Highly recommend,Tuesday,18
+77,Los Angeles,Dine-in,2024-06-24 20:00:00,46,16.09,1.7,Highly recommend,Monday,20
+78,Houston,Takeaway,2024-06-28 16:00:00,42,45.98,3.1,Not hot enough,Friday,16
+79,Chicago,Dine-in,2024-06-22 16:00:00,33,38.41,4.2,Not hot enough,Saturday,16
+80,Houston,Dine-in,2024-06-27 22:00:00,53,47.5,2.0,Excellent flavor!,Thursday,22
+81,Phoenix,Dine-in,2024-06-03 15:00:00,20,34.13,2.0,Highly recommend,Monday,15
+82,Chicago,Delivery,2024-06-15 21:00:00,26,28.94,2.6,Just average,Saturday,21
+83,New York,Dine-in,2024-06-26 16:00:00,13,12.39,4.6,Terrible experience,Wednesday,16
+84,Houston,Dine-in,2024-06-05 13:00:00,56,36.87,1.0,Crispy and fresh,Wednesday,13
+85,Phoenix,Dine-in,2024-06-05 15:00:00,34,33.29,4.6,Crispy and fresh,Wednesday,15
+86,New York,Takeaway,2024-06-25 21:00:00,39,49.61,1.6,Not hot enough,Tuesday,21
+87,New York,Dine-in,2024-06-26 19:00:00,18,19.57,5.0,Excellent flavor!,Wednesday,19
+88,New York,Takeaway,2024-06-29 14:00:00,30,31.23,4.8,Too slow,Saturday,14
+89,New York,Dine-in,2024-06-11 19:00:00,29,36.04,3.0,Loved the fries!,Tuesday,19
+90,Chicago,Dine-in,2024-06-10 20:00:00,28,35.78,3.1,Loved the fries!,Monday,20
+91,Chicago,Delivery,2024-06-18 12:00:00,28,32.45,2.9,Not hot enough,Tuesday,12
+92,Chicago,Takeaway,2024-06-24 11:00:00,21,41.08,3.5,Too slow,Monday,11
+93,Phoenix,Dine-in,2024-06-15 18:00:00,46,18.2,1.4,Not hot enough,Saturday,18
+94,Phoenix,Takeaway,2024-06-16 15:00:00,51,39.03,1.1,Loved the fries!,Sunday,15
+95,Phoenix,Takeaway,2024-06-02 13:00:00,26,34.79,1.2,Too slow,Sunday,13
+96,Los Angeles,Delivery,2024-06-23 11:00:00,46,45.84,2.8,Highly recommend,Sunday,11
+97,Phoenix,Delivery,2024-06-17 13:00:00,57,43.89,2.1,Excellent flavor!,Monday,13
+98,Chicago,Delivery,2024-06-03 10:00:00,48,22.61,3.5,Crispy and fresh,Monday,10
+99,Chicago,Delivery,2024-06-18 22:00:00,37,21.05,5.0,Just average,Tuesday,22
+100,Los Angeles,Delivery,2024-06-16 10:00:00,50,49.27,2.5,Okay service,Sunday,10
